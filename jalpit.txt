@@ -1,0 +1,51 @@
+Personal
+Jalpit Patel
+Amin Street • Nadiad,Gujarat 388710 Home: (91) 7359449055, jalpit@gmail.com
+LinkedIn: jalpit-patel-a7950710b • Github: jalpit
+
+Career Objective	
+
+Seeking a challenging position in a result oriented company where acquired can be utilized towards continued growth and advancement.
+
+Academic Summary
+
+
+•	A  Dynamic  software  professional, and experienced and skilled in academic career with various technologies and development and analysis.
+•	Ability to work with a team to analyze and finding interesting patterns
+•	Ability to work with the development team and identify and eliminate impediments to turning out quality software applications for customers
+•	Involved in all phases of Software Development  Life Cycle  (SDLC), Software  Testing Life Cycle (STLC)  and Object Oriented System Development (OOSD) such as Requirements, Analysis/Design, Development and Testing
+•	Involved in all phases of Data analysis such as data cleaning, data wrangling, and data visualization.
+•	Proficient in gather and document user’s requirements and developing logical and physical specifications
+•	Extensively Good Working Knowledge on Python, R, Tableau and their respective libraries.
+•	Experience in reviewing and understanding Business and Functional requirements.
+•	Attention to detail with excellent technical and troubleshooting.
+•	Quick thinker, fast learner, detail oriented, can work under pressure, can work in multitask  mode, self-organized.
+•	Team player with flexible, positive and realistic attitude.
+
+Skills
+
+•	Databases	: Microsoft SQL Server 2005/2008/2012, MySQL, PL/SQL, Oracle 10g.
+•	Languages	: Python, R, C, ASP.NET, Java, SQL, Android.
+•	Web Technology	: Bootstrap, PHP, JavaScript, HTML, XML, CSS.
+•	IDE	: Anaconda (Jupyter Notebook), R studio, Visual Studio, Net beans IDE.
+•	Operating Systems	: Windows 7/8/8.1/10,Ubantu.
+•	Frameworks	: .Net
+
+Projects	
+•	Project: Magazine subscription system
+Team size: 2
+Tools and Technology: Java,pl/sql
+Project description: The project is based on deliver magazine to users with a selected time period. The project provides facilities to the user email verification and login mechanism along with admin a bootstrap designed dashboard and CRUD application with charts.
+
+•	Project: Wrangle and analyze data of We rate dogs
+Tools and Technology: Python
+Project description: The project is on a twitter profile @waterdogs whose dataset is prepared, cleaned and wrangled from Json to csv using python and twitter API and classifying rating and co relations of dog breeds and their ratings.
+
+Education Summary:	
+
+Bachelor of Engineering (BE) from Standford University (6.5)
+Master of Engineering (ME) in Nirma University Nadiad. (Pursuing in 5th sem. (6.9))
+
+Certificate
+udacity data analyst nanodegree
+Page 1 of 1
